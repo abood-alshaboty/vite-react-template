@@ -1,6 +1,6 @@
 
 import { useState } from "react";
-import "./app.css";
+import "./App";
 import "./index.css";
 
 const PLAY_URL =
