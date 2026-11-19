@@ -1,6 +1,6 @@
 
 import { useState } from "react";
-import "./app.css";
+import "./App.css";
 
 const PLAY_URL =
   "https://play.google.com/store/apps/details?id=com.nabdfuture.accounting";
